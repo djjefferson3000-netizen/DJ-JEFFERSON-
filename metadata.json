@@ -1,0 +1,8 @@
+{
+  "name": "DJ JEFFERSON Portfolio & Design Studio CMS",
+  "description": "Professional DJ & Design Portfolio for DJ Jefferson with an interactive customizable layout gallery and full-featured Admin CMS for managing works, live sessions, and recaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
